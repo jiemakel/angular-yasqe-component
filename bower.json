@@ -1,6 +1,6 @@
 {
   "name": "angular-yasqe-component",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "authors": [
     "Eetu Mäkelä <eetu.makela@iki.fi>"
   ],
@@ -15,9 +15,8 @@
   "ignore": [
     "**/.*",
     "tsconfig.json",
-    "tsd.json",
+    "webpack.config.js",
     "tslint.json",
-    "package.json",
-    "gulpfile.js"
+    "package.json"
   ]
 }
